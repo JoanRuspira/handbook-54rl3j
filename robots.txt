@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://JoanRuspira.github.io/handbook-54rl3j/sitemap.xml
